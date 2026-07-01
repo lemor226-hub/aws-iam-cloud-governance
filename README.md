@@ -91,12 +91,14 @@ To validate that the technical controls mapped accurately to the business compli
 
 * **Action:** Attempted to execute a `StopInstance` command on `Dev-Web-Server` (`Environment: Development`).
 * **Result:** **SUCCESS.** The instance state transitioned smoothly. This verified that operational velocity remains unhindered for approved day-to-day tasks.
+* ![Dev Success](dev-success.png)
 
 
 ### Test Case 2: Unauthorized Breach Attempt on Production Environment
 
 * **Action:** Attempted to execute a `StopInstance` command on `Prod-Core-Database` (`Environment: Production`).
 * **Result:** **BLOCKED (EXPLICIT DENY).** The AWS API instantly dropped the request and threw a critical authorization error banner: *"You are not authorized to perform this operation."*
+* ![Prod Blocked](prod-blocked.png)
 
 
 ---
