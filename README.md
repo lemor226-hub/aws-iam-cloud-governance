@@ -1,9 +1,3 @@
-Structuring this as a professional **Cloud Security Assessment & Engineering Brief** is the absolute best way to turn this technical exercise into a powerful piece of evidence for a GRC or IAM role. It shows hiring managers that you don’t just write code—you understand the corporate risk it addresses.
-
-Here is a clean, markdown-formatted template you can copy, paste, and customize directly into your GitHub `README.md`.
-
----
-
 # Automated Cloud Governance & Least-Privilege IAM Hardening
 
 ## 📋 Executive Summary
