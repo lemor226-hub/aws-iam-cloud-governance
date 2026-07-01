@@ -116,8 +116,3 @@ By building and deploying this configuration, the architecture successfully alig
 
 ---
 
-### 💡 Pro-Tip for your GitHub Repository:
-
-When you save this as your `README.md`, create a small folder named `/images` or `/screenshots` inside your repository. Drop your two screenshots in there, and link them directly under the **Security Testing** section using markdown format: `![Alt Text](images/your-screenshot.png)`.
-
-Once you have this formatted on your GitHub, you have concrete, visual proof of your cloud capabilities. Are you ready to see how we condense this entire project into a high-impact, single bullet point for your resume?
